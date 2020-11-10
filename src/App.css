@@ -1,0 +1,149 @@
+#app {
+  width: -webkit-fill-available;
+}
+
+@media (max-width: 700px) {
+  /* CSS */
+  body {
+    /* background: blue; */
+  }
+
+  .maintext {
+    font-size: 35px !important;
+  }
+
+  .form .content {
+    display: block !important;
+  }
+
+  .form .content button {
+    margin-top: 20px !important;
+  }
+
+  .form {
+    width: 80% !important;
+  }
+
+  .info {
+    width: 90% !important;
+    display: block !important;
+  }
+
+  .info .content {
+    width: 100% !important;
+  }
+
+  .info svg {
+    width: 100% !important;
+  }
+
+  .info .content p {
+    text-align: center !important;
+    font-size: 17px !important;
+  }
+
+  .info .content h3 {
+    text-align: center !important;
+    font-size: 30px !important;
+  }
+
+  .contentdrop {
+    width: 95%;
+    margin: auto;
+    display: block;
+    text-align: -webkit-center;
+    margin-top: 96px;
+    display: block !important;
+  }
+
+  .contentdrop menu {
+    width: auto !important;
+  }
+
+  .contentdrop .dropdowns {
+    max-width: 100% !important;
+    margin-top: 96px;
+    width: 100% !important;
+  }
+
+  .contentdrop .dropdowns .title {
+    display: block !important;
+  }
+
+  .factors {
+    width: 95%;
+    display: flex;
+    margin: auto;
+    text-align: -webkit-center;
+  }
+
+  .form .row {
+    display: block !important;
+  }
+
+  .form .row input {
+    margin: 10px 0 !important;
+  }
+
+  .details {
+    position: initial !important;
+    margin: auto;
+    padding: 14px 45px  !important;
+  }
+
+  .box {
+    display: none !important;
+  }
+
+  .content .header {
+    font-size: 30px !important;
+  }
+
+  .profiles {
+    display: block !important;
+  }
+
+  .side {
+    max-width: 95% !important;
+    margin: 100px auto !important;
+  }
+
+  .side {
+    display: block !important;
+  }
+
+  .sliderHolder {
+    width: 95vw !important;
+    overflow-y: scroll;
+  }
+
+  .contentcontact {
+    display: block !important;
+    text-align: -webkit-center;
+  }
+  .textcontent {
+    width: 100% !important;
+  }
+
+  .contentcontact  .fields{
+    width: 100% !important;
+  }
+
+  .subsribe{
+    display: block !important;
+  }
+
+  
+  .subsribe .section {
+    margin: 20px auto;
+    width: 95% !important;
+  }
+
+  .contentlast{
+    display: block !important;
+  }
+  
+  .menu{
+    width: 100% !important;
+  }
+}
